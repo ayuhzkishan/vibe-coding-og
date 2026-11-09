@@ -1,0 +1,27 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "vibe-coding-og",
+  "version": "0.1.0",
+  "description": "A modular engineering workflow toolkit for Claude Code.",
+  "owner": {
+    "name": "YOUR_NAME",
+    "email": "YOUR_EMAIL",
+    "url": "https://github.com/YOUR_GITHUB_USERNAME"
+  },
+  "plugins": [
+    {
+      "name": "vibe-coding-og",
+      "displayName": "Vibe Coding OG",
+      "description": "A modular engineering workflow toolkit for Claude Code.",
+      "version": "0.1.0",
+      "category": "development",
+      "author": {
+        "name": "YOUR_NAME",
+        "email": "YOUR_EMAIL",
+        "url": "https://github.com/YOUR_GITHUB_USERNAME"
+      },
+      "homepage": "https://github.com/YOUR_GITHUB_USERNAME/vibe-coding-og",
+      "source": "./"
+    }
+  ]
+}
