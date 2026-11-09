@@ -156,17 +156,11 @@ vibe-coding-og/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/vibe-coding-og.git
+   git clone https://github.com/ayuhzkishan/vibe-coding-og.git
    cd vibe-coding-og
    ```
 
-2. **Configure Placeholders**:
-   Update author and repository placeholders in:
-   - `.claude-plugin/plugin.json` (`YOUR_NAME`, `YOUR_EMAIL`, `YOUR_GITHUB_USERNAME`)
-   - `.claude-plugin/marketplace.json` (`YOUR_NAME`, `YOUR_EMAIL`, `YOUR_GITHUB_USERNAME`)
-   - `LICENSE` (`[YOUR_NAME]`)
-
-3. **Run the Test Suite**:
+2. **Run the Test Suite**:
    ```bash
    python tests/run_tests.py
    ```
@@ -203,11 +197,11 @@ Once published to GitHub:
 1. **Add the Marketplace**:
    - In Claude Code interactive session:
      ```text
-     /plugin marketplace add YOUR_GITHUB_USERNAME/vibe-coding-og
+     /plugin marketplace add ayuhzkishan/vibe-coding-og
      ```
    - Or from terminal:
      ```bash
-     claude plugin marketplace add YOUR_GITHUB_USERNAME/vibe-coding-og
+     claude plugin marketplace add ayuhzkishan/vibe-coding-og
      ```
 
 2. **Install the Plugin**:

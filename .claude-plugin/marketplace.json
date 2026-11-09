@@ -4,9 +4,9 @@
   "version": "0.1.0",
   "description": "A modular engineering workflow toolkit for Claude Code.",
   "owner": {
-    "name": "YOUR_NAME",
-    "email": "YOUR_EMAIL",
-    "url": "https://github.com/YOUR_GITHUB_USERNAME"
+    "name": "Ayush Kishan",
+    "email": "ayush.kishan29@gmail.com",
+    "url": "https://github.com/ayuhzkishan"
   },
   "plugins": [
     {
@@ -16,11 +16,11 @@
       "version": "0.1.0",
       "category": "development",
       "author": {
-        "name": "YOUR_NAME",
-        "email": "YOUR_EMAIL",
-        "url": "https://github.com/YOUR_GITHUB_USERNAME"
+        "name": "Ayush Kishan",
+        "email": "ayush.kishan29@gmail.com",
+        "url": "https://github.com/ayuhzkishan"
       },
-      "homepage": "https://github.com/YOUR_GITHUB_USERNAME/vibe-coding-og",
+      "homepage": "https://github.com/ayuhzkishan/vibe-coding-og",
       "source": "./"
     }
   ]
